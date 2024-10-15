@@ -1,0 +1,14 @@
+body{
+    color:tomato;
+    background-color:#fafad2;  
+     font-family: courier;
+   }
+
+hr {
+    height: 2px;
+    border: none;
+    background-color: tomato;
+}
+ul {
+    list-style-type: square;
+}
